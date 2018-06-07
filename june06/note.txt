@@ -1,0 +1,1 @@
+https://api.intrinio.com/historical_data?identifier=QCOM&item=adj_close_price&start_date=2017-06-06&end_date=2018-06-06&frequency=daily&page_size=400

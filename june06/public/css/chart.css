@@ -1,0 +1,13 @@
+.main-chart a[href]{
+    display:none !important;
+}
+
+body{
+    background:#ccc;
+}
+
+#main-chart-2{
+    position : absolute;
+    top:0px;
+    z-index:-1;
+}
